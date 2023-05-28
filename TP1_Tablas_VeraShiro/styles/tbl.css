@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+
+table,
+th,
+td {
+    border: 1px cadetblue;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
